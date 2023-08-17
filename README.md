@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on AI applications and Data science projects.
-- Interested in computer vision and NLP project
+- Interested in computer vision and NLP.
 
 ## 💻 I code with:
 <div align="left">
